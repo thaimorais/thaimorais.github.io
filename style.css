@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Send+Flowers&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@1,400;1,500;1,600;1,700&display=swap');
+        h1 {
+        color: #F4AFB4;
+        }
+        p, ul li {
+        color: #C9C9C9;s
+        }
+        #meunome {
+            font-family: 'Send Flowers', cursive;
+        }
+        .fontesite {
+            font-family: 'Cabin', sans-serif;
+        }
+        body {
+        background-color: #797D81;
+        } 
+        .Lista1 {
+        font-size: 16px;
+        }   
+        .Lista2 {
+            font-size: 18px;
+        }
+        .Lista3 {
+            font-size: 20px;
+        }
+        .Lista4 {
+            font-size: 22px;
+        }
+        .Subtitulo {
+            color: #94A89A;
+        }
+        #foto {
+            border-radius: 80% 80%;
+        }
+        .button1 {
+            color: #C9B7AD;
+            background-color: #5a6e61;
+            padding: 5px;
+            line-height: 30px;
+            text-decoration: none;
+        }
+        #marcação {
+            list-style-type: none;
+            display: inline-flex;
+            margin: 0px 300px;
+            padding: 10px;
+        }
+        .Link {
+           color: #F4AFB4;
+           text-decoration: none;
+        }

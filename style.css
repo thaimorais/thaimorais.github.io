@@ -10,6 +10,7 @@
             font-family: 'Send Flowers', cursive;
             font-size: 50px;
             text-align: center;
+            border: 1px solid black;
         }
 
         .fontesite {
@@ -45,6 +46,16 @@
             background-color: #F4AFB4;
             top: 250px;
         }
+
+        .div1 {
+            border: 1px solid green;
+            height: 1160px;
+            width: 930px;
+            display: flex;
+            flex-direction: row;
+            margin: 70px auto;
+        }
+
         .button1:hover {
             color: white;
             text-decoration: underline;
@@ -73,7 +84,7 @@
             text-decoration: underline;
         }
         div.Inicio {
-            border-top: 1px solid rgb(77, 71, 71);
+            border: 1px solid rgb(77, 71, 71);
             height: 450px;
             text-align: center;
         }
@@ -86,6 +97,7 @@
         }
 
         div.Habilidades {
+            top: 600px;
             left: 350px;
             position: absolute;
         }
@@ -114,6 +126,7 @@
             top: 1095px;
             left: 350px;   
         }
+
         
     
         

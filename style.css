@@ -8,13 +8,18 @@
         }
         #meunome {
             font-family: 'Send Flowers', cursive;
+            font-size: 50px;
+            text-align: center;
         }
+
         .fontesite {
             font-family: 'Cabin', sans-serif;
         }
+
         body {
         background-color: #797D81;
         } 
+
         .Lista1 {
         font-size: 16px;
         }   
@@ -27,26 +32,88 @@
         .Lista4 {
             font-size: 22px;
         }
+
         .Subtitulo {
             color: #94A89A;
         }
+
         #foto {
             border-radius: 80% 80%;
+            position: absolute;
+            left: 450px;
+            padding: 1px;
+            background-color: #F4AFB4;
+            top: 250px;
         }
+        .button1:hover {
+            color: white;
+            text-decoration: underline;
+        }
+
         .button1 {
             color: #C9B7AD;
             background-color: #5a6e61;
             padding: 5px;
-            line-height: 30px;
+            line-height: 50px;
             text-decoration: none;
+            font-size: 20px;
         }
         #marcação {
             list-style-type: none;
             display: inline-flex;
-            margin: 0px 300px;
+            margin: 0px 1480px;
             padding: 10px;
         }
         .Link {
            color: #F4AFB4;
            text-decoration: none;
         }
+        .Link:hover {
+            color: #94A89A;
+            text-decoration: underline;
+        }
+        div.Inicio {
+            border-top: 1px solid rgb(77, 71, 71);
+            height: 450px;
+            text-align: center;
+        }
+
+        .descrição {
+            left: 700px;
+            position: absolute;
+            text-align: justify;
+            padding: 80px;
+        }
+
+        div.Habilidades {
+            left: 350px;
+            position: absolute;
+        }
+
+        div.Carreira {
+            position: absolute;
+            top: 900px;
+            left: 670px;
+            text-align:end;
+        }
+        
+        #Carreira {
+            position: absolute;
+            top: 850px;
+            left: 1150px;
+        }
+
+        #Trybe {
+            position: absolute;
+            top: 1050px;
+            left: 350px;
+        }
+       
+        div.Trybe {
+            position: absolute;
+            top: 1095px;
+            left: 350px;   
+        }
+        
+    
+        
